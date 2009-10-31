@@ -1,3 +1,0 @@
-* Align the metamodel and runtime semantics more to the UML2 Specification.
-    ** In UML2, a MergeNode does not reduce token concurrency.
-       But activities.runtime always merges tokens.
