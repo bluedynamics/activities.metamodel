@@ -581,4 +581,3 @@ class ITaggedValue(INode):
     """
     value = Attribute(
         u"""The concrete value of the tagged value element""")
-#
