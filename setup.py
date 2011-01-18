@@ -8,7 +8,7 @@ __author__ = """Johannes Raggam <johannes@raggam.co.at>"""
 __docformat__ = 'plaintext'
 
 from setuptools import setup, find_packages
-import sys, os
+import os
 
 version = '1.0'
 shortdesc ="Metamodel for activities"
